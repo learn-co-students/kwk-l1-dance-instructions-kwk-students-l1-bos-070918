@@ -19,7 +19,6 @@ Style**.
 <GIF>
 
 
-
 Roughly, the abstracted components involved are as follows:
 
 ### Lower Body
